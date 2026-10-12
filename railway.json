@@ -1,0 +1,7 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "deploy": {
+    "startCommand": "python sb_king_promo_bot_v2.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
